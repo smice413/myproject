@@ -8,7 +8,7 @@
 </head>
 <body>
 
-main.jsp 페이지
+main.jsp 페이지 페이지
 
 </body>
 </html>
