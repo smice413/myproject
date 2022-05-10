@@ -8,7 +8,7 @@
 </head>
 <body>
 
-footer.jsp 추가
+footer.jsp (sourcetree local user1브랜치)추가
 
 </body>
 </html>
